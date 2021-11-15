@@ -1,0 +1,6 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\Asp.netAssignments\Asp.netExamples\RoundDecimalsLib1\bin\Debug\RoundDecimalsLib1.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\Asp.netAssignments\Asp.netExamples\RoundDecimalsLib1\bin\Debug\RoundDecimalsLib1.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\Asp.netAssignments\Asp.netExamples\RoundDecimalsLib1\obj\Debug\RoundDecimalsLib.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\Asp.netAssignments\Asp.netExamples\RoundDecimalsLib1\obj\Debug\RoundDecimalsLib1.dll
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\Asp.netAssignments\Asp.netExamples\RoundDecimalsLib1\obj\Debug\RoundDecimalsLib1.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\Asp.netAssignments\Asp.netExamples\RoundDecimalsLib1\obj\Debug\RoundDecimalsLib.csproj.AssemblyReference.cache
